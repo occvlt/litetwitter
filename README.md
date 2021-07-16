@@ -1,6 +1,6 @@
 # litetwitter
 
-<h2>Учебный React-проект LiteTwitter. Реализованы компоненты:</h2>
+<p>Учебный React-проект LiteTwitter. Реализованы компоненты:</p>
 
 <ul>
 <li>Поиск по постам</li>
